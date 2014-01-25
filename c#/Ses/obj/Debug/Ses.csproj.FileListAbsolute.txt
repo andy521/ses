@@ -1,0 +1,8 @@
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\Ses.Form1.resources
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\bin\Debug\Ses.exe
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\bin\Debug\Ses.pdb
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\Ses.exe
+C:\Users\ziyaddin\Documents\SharpDevelop Projects\Ses\Ses\obj\Debug\Ses.pdb
